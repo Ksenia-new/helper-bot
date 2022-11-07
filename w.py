@@ -1,8 +1,8 @@
 import telebot
 from telebot import types
 import requests
-from config import TOKEN 
-from config import APIKEYS
+from local.config import TOKEN 
+from local.config import APIKEYS
 # from pyown import OWN
 # from pyown.utils.config import get_default_config
 
